@@ -1,0 +1,35 @@
+html {
+  background-color: #9D7EB9;
+  color: #C1BDDB;
+}
+body {
+  text-align: center;
+
+}
+#gabby {
+
+font-family: 'Homemade Apple', cursive;
+font-size: 50px;
+
+}
+#header {
+  border: 2.5px dashed #BCFFFA;
+  border-radius: 2.5px;
+}
+#sister {
+  font-family: 'Roboto Mono', monospace;
+}
+
+#random {
+  font-family: 'Bree Serif', serif;
+  font-size: 35px;
+  color:#C1BDDB;
+}
+.facts {
+  font-family:  'Homemade Apple', cursive;
+  color: #C1BDDB;
+}
+img {
+  height: 150px;
+  width: 150px;
+}
